@@ -1,6 +1,6 @@
 # pytrate
 A python software package for analyzing titration data, with an emphasis 
-on combined analysis of multi-titrations.  Based on inspired by pytc from
+on combined analysis of multi-titrations.  Based on and inspired by pytc from
 the Harms Lab (see https://doi.org/10.1021/acs.biochem.7b01264; 
 https://github.com/harmslab/pytc). Performs Bayesian fitting. 
 Designed for fitting arbitrary models and arbitrary titration setups.
